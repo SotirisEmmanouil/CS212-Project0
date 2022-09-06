@@ -1,4 +1,4 @@
-# CS212-Projects
+# Select CS212 Projects
 
 ## Project0
 
