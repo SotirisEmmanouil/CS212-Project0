@@ -16,7 +16,7 @@ public class Project0 {
 				       lowercase++;
 			        if(sample.charAt(i)=='E')
 			        	UpperCase++;
-		}
+	    }
 
 	JOptionPane.showMessageDialog(null,"Number of lower case e's: "+ lowercase + "\n" + "Number of upper case e's: " +UpperCase);				
 	
